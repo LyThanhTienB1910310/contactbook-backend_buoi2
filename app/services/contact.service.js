@@ -9,7 +9,7 @@ class ContactService{
         const contact = {
             name: payload.name,
             email: payload.email,
-            address: payload.adress,
+            address: payload.address,
             phone: payload.phone,
             favorite: payload.favorite
         };
